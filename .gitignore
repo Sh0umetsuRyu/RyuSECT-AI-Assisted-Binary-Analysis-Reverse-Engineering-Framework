@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# RyuSECT local firmware and research files
+firmware/
+extracted/
+reports/
+*.raw
+*.uImage
+*.dtb
+*.img
+*.rzdb
+*.before-*
+.venv/
